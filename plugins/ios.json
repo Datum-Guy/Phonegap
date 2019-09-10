@@ -1,0 +1,95 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "com-darryncampbell-cordova-plugin-intent": {
+      "PACKAGE_NAME": "com.datumguy.inception"
+    },
+    "cordova-android-support-gradle-release": {
+      "PACKAGE_NAME": "com.datumguy.inception"
+    },
+    "cordova-clipboard": {
+      "PACKAGE_NAME": "com.datumguy.inception"
+    },
+    "cordova-plugin-badge": {
+      "PACKAGE_NAME": "com.datumguy.inception"
+    },
+    "cordova-plugin-camera": {
+      "PACKAGE_NAME": "com.datumguy.inception"
+    },
+    "cordova-plugin-customurlscheme": {
+      "URL_SCHEME": "ml_inception",
+      "PACKAGE_NAME": "com.datumguy.inception"
+    },
+    "cordova-plugin-device": {
+      "PACKAGE_NAME": "com.datumguy.inception"
+    },
+    "cordova-plugin-file": {
+      "PACKAGE_NAME": "com.datumguy.inception"
+    },
+    "cordova-plugin-file-opener2": {
+      "PACKAGE_NAME": "com.datumguy.inception"
+    },
+    "cordova-plugin-file-transfer": {
+      "PACKAGE_NAME": "com.datumguy.inception"
+    },
+    "cordova-plugin-globalization": {
+      "PACKAGE_NAME": "com.datumguy.inception"
+    },
+    "cordova-plugin-inappbrowser": {
+      "PACKAGE_NAME": "com.datumguy.inception"
+    },
+    "cordova-plugin-ionic-keyboard": {
+      "PACKAGE_NAME": "com.datumguy.inception"
+    },
+    "cordova-plugin-local-notification": {
+      "PACKAGE_NAME": "com.datumguy.inception"
+    },
+    "cordova-plugin-media-capture": {
+      "PACKAGE_NAME": "com.datumguy.inception"
+    },
+    "cordova-plugin-network-information": {
+      "PACKAGE_NAME": "com.datumguy.inception"
+    },
+    "cordova-plugin-screen-orientation": {
+      "PACKAGE_NAME": "com.datumguy.inception"
+    },
+    "cordova-plugin-splashscreen": {
+      "PACKAGE_NAME": "com.datumguy.inception"
+    },
+    "cordova-plugin-statusbar": {
+      "PACKAGE_NAME": "com.datumguy.inception"
+    },
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "com.datumguy.inception"
+    },
+    "cordova-plugin-zip": {
+      "PACKAGE_NAME": "com.datumguy.inception"
+    },
+    "cordova-sqlite-storage": {
+      "PACKAGE_NAME": "com.datumguy.inception"
+    },
+    "nl.kingsquare.cordova.background-audio": {
+      "PACKAGE_NAME": "com.datumguy.inception"
+    },
+    "phonegap-plugin-push": {
+      "PACKAGE_NAME": "com.datumguy.inception"
+    }
+  },
+  "dependent_plugins": {
+    "cordova-support-google-services": {
+      "PACKAGE_NAME": "com.datumguy.inception"
+    },
+    "es6-promise-plugin": {
+      "PACKAGE_NAME": "com.datumguy.inception"
+    },
+    "phonegap-plugin-multidex": {
+      "PACKAGE_NAME": "com.datumguy.inception"
+    }
+  }
+}
