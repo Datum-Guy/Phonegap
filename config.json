@@ -1,7 +1,7 @@
 {
     "app_id": "com.datumguy.inception",
-    "appname": "ML inception",
-    "desktopappname": "ML inception Desktop",
+    "appname": "Inception",
+    "desktopappname": "Moodle Desktop",
     "versioncode": 1000,
     "versionname": "1.0.0",
     "cache_update_frequency_usually": 420000,
@@ -58,15 +58,16 @@
     "wsextservice": "local_mobile",
     "presets" : {"url": "https://classroom.datumguy.com",
         "username": ""},
+    "demo_sites": [],
     "font_sizes": [
         62.5,
         75.89,
         93.75
     ],
-    "demo_sites": [],
     "customurlscheme": "ml_inception",
     "siteurl": "https://classroom.datumguy.com",
     "sitename": "DatumGuy",
+    "gcmpn": "783154371025",
     "reportbugmail": "rajat.jain9701@gmail.com",
     "multisitesdisplay": "",
     "skipssoconfirmation": false,
