@@ -25,7 +25,7 @@
       "PACKAGE_NAME": "com.datumguy.inception"
     },
     "cordova-plugin-customurlscheme": {
-      "URL_SCHEME": "ml_inception",
+      "URL_SCHEME": "moodlemobile",
       "ANDROID_SCHEME": " ",
       "ANDROID_HOST": " ",
       "ANDROID_PATHPREFIX": "/",

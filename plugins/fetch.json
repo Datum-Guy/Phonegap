@@ -50,7 +50,7 @@
     },
     "is_top_level": true,
     "variables": {
-      "URL_SCHEME": "ml_inception",
+      "URL_SCHEME": "moodlemobile",
       "ANDROID_SCHEME": " ",
       "ANDROID_HOST": " ",
       "ANDROID_PATHPREFIX": "/"
