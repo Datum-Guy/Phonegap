@@ -447,6 +447,7 @@
         error: handlerFor(i, false)
       };
       tropts.push({
+        qid: null,
         sql: request.sql,
         params: request.params
       });

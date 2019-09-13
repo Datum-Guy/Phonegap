@@ -1,33 +1,33 @@
 {
-  "_from": "cordova-sqlite-storage@^3.3.0",
-  "_id": "cordova-sqlite-storage@3.3.0",
+  "_from": "cordova-sqlite-storage@2.6.0",
+  "_id": "cordova-sqlite-storage@2.6.0",
   "_inBundle": false,
-  "_integrity": "sha512-RBgGAe8rf/k54JC12xtt/14PxJrh42C4ISd+P8fqZq5Kw6JfQGh/55/VTsjI29rInl5jO5fwpYee/InGYlmI9w==",
+  "_integrity": "sha512-m+KylFwNRsQloJ6TZihupfma2muXkmNglh8cFSiJQqriTTm6eq0gyPaAuKxgoPswe679G+0aUai07NFC/f0GGQ==",
   "_location": "/cordova-sqlite-storage",
   "_phantomChildren": {},
   "_requested": {
-    "type": "range",
+    "type": "version",
     "registry": true,
-    "raw": "cordova-sqlite-storage@^3.3.0",
+    "raw": "cordova-sqlite-storage@2.6.0",
     "name": "cordova-sqlite-storage",
     "escapedName": "cordova-sqlite-storage",
-    "rawSpec": "^3.3.0",
+    "rawSpec": "2.6.0",
     "saveSpec": null,
-    "fetchSpec": "^3.3.0"
+    "fetchSpec": "2.6.0"
   },
   "_requiredBy": [
     "#USER",
     "/"
   ],
-  "_resolved": "https://registry.npmjs.org/cordova-sqlite-storage/-/cordova-sqlite-storage-3.3.0.tgz",
-  "_shasum": "f52580102559e5d0b822ffa3170b5bcfdb326846",
-  "_spec": "cordova-sqlite-storage@^3.3.0",
-  "_where": "c:\\Users\\rj1097\\moodlemobiledirectory",
+  "_resolved": "https://registry.npmjs.org/cordova-sqlite-storage/-/cordova-sqlite-storage-2.6.0.tgz",
+  "_shasum": "84f5c56509d83b8629338f863e027482afd7fdcd",
+  "_spec": "cordova-sqlite-storage@2.6.0",
+  "_where": "C:\\Users\\rj1097\\official",
   "author": {
     "name": "various"
   },
   "bugs": {
-    "url": "https://github.com/xpbrew/cordova-sqlite-storage/issues"
+    "url": "https://github.com/litehelpers/Cordova-sqlite-storage/issues"
   },
   "bundleDependencies": false,
   "cordova": {
@@ -40,16 +40,14 @@
     ]
   },
   "dependencies": {
-    "cordova-sqlite-storage-dependencies": "2.1.0"
+    "cordova-sqlite-storage-dependencies": "1.2.1"
   },
   "deprecated": false,
-  "description": "Native interface to SQLite for PhoneGap/Cordova - cordova-sqlite-storage plugin version",
+  "description": "Native interface to SQLite for PhoneGap/Cordova",
   "devDependencies": {
-    "coffeescript": "1",
-    "cross-spawn": "^6.0.5",
-    "fs-extra": "^8.1.0"
+    "shelljs": "^0.7.4"
   },
-  "homepage": "https://github.com/xpbrew/cordova-sqlite-storage",
+  "homepage": "https://github.com/litehelpers/Cordova-sqlite-storage",
   "keywords": [
     "sqlite",
     "ecosystem:cordova",
@@ -62,12 +60,10 @@
   "name": "cordova-sqlite-storage",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/xpbrew/cordova-sqlite-storage.git"
+    "url": "git+https://github.com/litehelpers/Cordova-sqlite-storage.git"
   },
   "scripts": {
-    "clean-spec": "rm -rf spec/[mnp]* && git cl spec/config.xml && git status --ignored",
-    "prepare-js": "coffee -p SQLitePlugin.coffee.md > www/SQLitePlugin.js",
-    "prepare-spec": "node scripts/prepareSpec.js"
+    "start": "node scripts/prepareSpec.js"
   },
-  "version": "3.3.0"
+  "version": "2.6.0"
 }

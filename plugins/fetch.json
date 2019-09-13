@@ -186,6 +186,14 @@
     "is_top_level": true,
     "variables": {}
   },
+  "cordova-sqlite-storage": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-sqlite-storage@2.6.0"
+    },
+    "is_top_level": true,
+    "variables": {}
+  },
   "nl.kingsquare.cordova.background-audio": {
     "source": {
       "type": "registry",
@@ -219,14 +227,6 @@
       "id": "phonegap-plugin-multidex@~1.0.0"
     },
     "is_top_level": false,
-    "variables": {}
-  },
-  "cordova-sqlite-storage": {
-    "source": {
-      "type": "registry",
-      "id": "cordova-sqlite-storage@^3.3.0"
-    },
-    "is_top_level": true,
     "variables": {}
   }
 }
