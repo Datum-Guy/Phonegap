@@ -33,16 +33,6 @@
     "is_top_level": true,
     "variables": {}
   },
-  "cordova-plugin-camera": {
-    "source": {
-      "type": "registry",
-      "id": "cordova-plugin-camera@4.1.0"
-    },
-    "is_top_level": true,
-    "variables": {
-      "ANDROID_SUPPORT_V4_VERSION": "27.+"
-    }
-  },
   "cordova-plugin-customurlscheme": {
     "source": {
       "type": "registry",
@@ -228,5 +218,15 @@
     },
     "is_top_level": false,
     "variables": {}
+  },
+  "cordova-plugin-camera": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-camera@^4.1.0"
+    },
+    "is_top_level": true,
+    "variables": {
+      "ANDROID_SUPPORT_V4_VERSION": "27.+"
+    }
   }
 }
